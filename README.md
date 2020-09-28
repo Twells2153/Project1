@@ -38,6 +38,7 @@ Scan all computers and services in Network B. Record the identified computers an
 ### A) Access Control Matrix
 ### B) Issues with Policy Compliance 
 ### C) iptables Rules in R
+![iptables rules in R](./images/iptables.png)
 
 ## Test Implimentation of The Security Policy, Task IV
 ### A) Show NMap Results of Exposure of Network A
@@ -51,4 +52,4 @@ Scan all computers and services in Network B. Record the identified computers an
 ## Closing
 ### A) Show iptables rules to enforce the security policy in A.1
 ### B) Show iptables rules to enforce the security policy in A.2
-### C) Discussion of how the security policy could ensure non-Disclosuer
+### C) Discussion of how the security policy could ensure non-Disclosure
